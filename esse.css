@@ -6,3 +6,20 @@ body {
 	font-size: 11pt;
 	line-height: 14pt;
 }
+
+img {
+
+	width: 80%;
+	height: auto;
+	
+}
+
+#logo {
+
+	width: 30%;
+
+}
+
+#mediumlogo {
+	width: 60%;
+}
